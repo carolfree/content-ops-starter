@@ -237,7 +237,9 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: Award winning enterprises trust us
+  - subtitle: |-
+      Limited
+      spots available—enroll now!
     images:
       - url: /images/HLAimage3b.jpg
         altText: Empathy logo

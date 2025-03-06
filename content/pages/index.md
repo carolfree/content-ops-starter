@@ -10,25 +10,8 @@ sections:
     subtitle: >-
       Where Academic Excellence Meets Emotional Well-being and Nature
       Exploration
-    text: |+
-
-
-
-
-      *A Nurturing Learning Environment*
-
-
-
-
-
-      *for Kindergarten to Grade 2*
-
-
-
-
-
-
-
+    text: |
+      *A Nurturing Learning Environment for Kindergarten to Grade 2*
     actions:
       - label: Get started
         altText: ''

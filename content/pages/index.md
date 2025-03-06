@@ -664,27 +664,28 @@ sections:
         tagline: ''
         subtitle: ''
         text: >
-          ✔ Build strong academic skills with effective, research-backed
+          ✔ **Build** strong academic skills with effective, research-backed
           learning strategies
 
 
-
-          ✔ Explore nature and engage in outdoor adventures that inspire
+          ✔ **Explore** nature and engage in outdoor adventures that inspire
           curiosity
 
 
-
-          ✔ Develop emotional intelligence for confidence, inner peace, and
+          ✔ **Develop** emotional intelligence for confidence, inner peace, and
           well-being
 
 
-
-          ✔ Express creativity through hands-on experiences in art, music, and
-          drama
-
+          ✔ **Express** creativity through hands-on experiences in art, music,
+          and drama
 
 
-          ✔ Enjoy a cozy, welcoming space where learning feels like home
+          ✔ **Enjoy** a cozy, welcoming space where learning feels like home
+
+
+
+          If this sounds like the perfect environment for your child to
+          flourish, **Hearth Light Academy** is the place to be!
         image:
           url: /images/hla4.jpg
           altText: Placeholder Image

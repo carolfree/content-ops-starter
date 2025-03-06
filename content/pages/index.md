@@ -762,7 +762,9 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Feature Item Three
+      - title: >-
+          Are You Looking for a School Where Your Child Will Excel Academically
+          and Develop Strong Emotional Well-Being?
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: >+

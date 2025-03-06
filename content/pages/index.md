@@ -64,29 +64,25 @@ sections:
       - type: FeaturedItem
         title: 500k
         subtitle: Numbers Done
-        text: >
-          **Is Your Child Ready to
-
-          Thrive in a Nurturing Educational Environment?**
-
-
+        text: >+
           ✔ Build strong academic skills with effective, research-backed
-          learning strategies
+          learning strategies<br>
 
           ✔ Explore nature and engage in outdoor adventures that inspire
-          curiosity
+          curiosity<br>
 
           ✔ Develop emotional intelligence for confidence, inner peace, and
-          well-being
+          well-being<br>
 
           ✔ Express creativity through hands-on experiences in art, music, and
-          drama
+          drama<br>
 
-          ✔ Enjoy a cozy, welcoming space where learning feels like home
+          ✔ Enjoy a cozy, welcoming space where learning feels like home<br>
 
 
           If this sounds like the perfect environment for your child to
           flourish, Hearth Light Academy is the place to be!
+
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark

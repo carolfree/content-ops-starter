@@ -203,8 +203,7 @@ sections:
       - url: /images/hla4.jpg
         altText: Vise logo
         type: ImageBlock
-      - url: /images/telus-logo.svg
-        altText: Telus logo
+      - altText: Telus logo
         type: ImageBlock
       - url: /images/hla4.jpg
         altText: Contentful logo

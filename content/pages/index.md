@@ -159,7 +159,7 @@ sections:
       - title: >-
           Does Your Child Need a Warm, Supportive Environment That Encourages
           Both Learning and Play, Inside and Out?
-        subtitle: Faster
+        subtitle: ''
         text: >
           Indoor Spaces:
 

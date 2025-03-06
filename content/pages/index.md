@@ -105,7 +105,9 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: 20x
+      - title: >-
+          Would You Appreciate a Curriculum That Balances Academic Excellence
+          and Creative Exploration?
         subtitle: The Job Stuff
         text: >+
           ✔ **Establish** a solid foundation in core subjects like reading,

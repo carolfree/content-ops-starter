@@ -62,7 +62,7 @@ sections:
     subtitle: Subtitle goes here
     items:
       - type: FeaturedItem
-        title: 500k
+        title: Is Your Child Ready to Thrive in a Nurturing Educational Environment?
         subtitle: Numbers Done
         text: >
           ✔ Build strong academic skills with effective, research-backed

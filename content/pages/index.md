@@ -191,7 +191,7 @@ sections:
       - url: /images/HLAimage1b.jpg
         altText: Wellster logo
         type: ImageBlock
-      - url: /images/hla4.jpg
+      - url: /images/HLAimage1b.jpg
         altText: Vise logo
         type: ImageBlock
       - altText: Telus logo

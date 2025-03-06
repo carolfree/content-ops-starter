@@ -707,7 +707,7 @@ sections:
       - title: |-
           Would You Appreciate a
           Curriculum That Balances Academic Excellence and Creative Exploration?
-        tagline: This is the tagline
+        tagline: ''
         subtitle: This is the item subtitle
         text: >+
           ✔ **Establish** a solid foundation in core subjects like reading,

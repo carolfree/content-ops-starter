@@ -212,7 +212,7 @@ sections:
       - url: /images/HLAimage2b.jpg
         altText: Sanity logo
         type: ImageBlock
-      - url: /images/rangle-logo.svg
+      - url: /images/HLAimage4b.jpg
         altText: Rangle logo
         type: ImageBlock
     motion: move-to-left

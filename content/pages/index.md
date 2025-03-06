@@ -708,7 +708,7 @@ sections:
           Would You Appreciate a
           Curriculum That Balances Academic Excellence and Creative Exploration?
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: >+
           ✔ **Establish** a solid foundation in core subjects like reading,
           writing, and math

@@ -107,10 +107,31 @@ sections:
               borderRadius: x-large
       - title: 20x
         subtitle: The Job Stuff
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          ✔ **Establish** a solid foundation in core subjects like reading,
+          writing, and math
+
+          ✔**Investigate** the wonders of science through books, nature, and
+          experiments
+
+          ✔**Discover** history, geography, and social studies through engaging
+          lessons
+
+          ✔ **Express** creativity through theatrical and imaginative play
+
+          ✔ **Stay** active and connected to nature through outdoor fitness and
+          fun
+
+
+          If you can see your child thriving in this balanced approach, Hearth
+          Light Academy is the perfect fit!
+
+
+
+
+
+
+
         image:
           url: /images/icon2.svg
           altText: Featured icon two

@@ -766,7 +766,7 @@ sections:
           Are You Looking for a School Where Your Child Will Excel Academically
           and Develop Strong Emotional Well-Being?
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: >+
           ✔ Small class size (8-10 students) for personalized attention
 

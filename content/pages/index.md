@@ -64,25 +64,24 @@ sections:
       - type: FeaturedItem
         title: 500k
         subtitle: Numbers Done
-        text: >+
+        text: >
           ✔ Build strong academic skills with effective, research-backed
-          learning strategies<br>
+          learning strategies
 
           ✔ Explore nature and engage in outdoor adventures that inspire
-          curiosity<br>
+          curiosity
 
           ✔ Develop emotional intelligence for confidence, inner peace, and
-          well-being<br>
+          well-being
 
           ✔ Express creativity through hands-on experiences in art, music, and
-          drama<br>
+          drama
 
-          ✔ Enjoy a cozy, welcoming space where learning feels like home<br>
+          ✔ Enjoy a cozy, welcoming space where learning feels like home
 
 
           If this sounds like the perfect environment for your child to
           flourish, Hearth Light Academy is the place to be!
-
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark

@@ -161,7 +161,7 @@ sections:
           Both Learning and Play, Inside and Out?
         subtitle: ''
         text: >
-          Indoor Spaces:
+          **Indoor Spaces:**
 
 
           ✔ Bright and airy space with beautiful views of nature and wildlife
@@ -180,7 +180,7 @@ sections:
           ✔ A library landing for finding books and reading in a peaceful space
 
 
-          Outdoor Spaces:
+          **Outdoor Spaces:**
 
 
           ✔ A large field for physical activities and play

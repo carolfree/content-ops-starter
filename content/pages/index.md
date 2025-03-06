@@ -109,31 +109,34 @@ sections:
           Would You Appreciate a Curriculum That Balances Academic Excellence
           and Creative Exploration?
         subtitle: ''
-        text: >+
+        text: >
           ✔ **Establish** a solid foundation in core subjects like reading,
           writing, and math
+
+
 
           ✔**Investigate** the wonders of science through books, nature, and
           experiments
 
+
+
           ✔**Discover** history, geography, and social studies through engaging
           lessons
 
+
+
           ✔ **Express** creativity through theatrical and imaginative play
+
+
 
           ✔ **Stay** active and connected to nature through outdoor fitness and
           fun
 
 
+
+
           If you can see your child thriving in this balanced approach, Hearth
           Light Academy is the perfect fit!
-
-
-
-
-
-
-
         image:
           url: /images/icon2.svg
           altText: Featured icon two

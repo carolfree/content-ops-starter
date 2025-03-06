@@ -663,8 +663,20 @@ sections:
       - title: Feature Item One
         tagline: This is the tagline
         subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >
+          ✔ Build strong academic skills with effective, research-backed
+          learning strategies
+
+          ✔ Explore nature and engage in outdoor adventures that inspire
+          curiosity
+
+          ✔ Develop emotional intelligence for confidence, inner peace, and
+          well-being
+
+          ✔ Express creativity through hands-on experiences in art, music, and
+          drama
+
+          ✔ Enjoy a cozy, welcoming space where learning feels like home
         image:
           url: /images/hla4.jpg
           altText: Placeholder Image

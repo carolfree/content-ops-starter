@@ -13,7 +13,7 @@ sections:
     text: |
       *A Nurturing Learning Environment for Kindergarten to Grade 2*
     actions:
-      - label: Get started
+      - label: Email4
         altText: ''
         url: /
         showIcon: false

@@ -8,7 +8,7 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: >-
-      Where Academic Excellence Meets Emotional Well-being and Nature
+      Where Academic Excellence Meets Emotional Well-Being and Nature
       Exploration
     text: |
       *A Nurturing Learning Environment for Kindergarten to Grade 2*

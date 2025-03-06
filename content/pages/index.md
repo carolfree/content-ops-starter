@@ -661,7 +661,7 @@ sections:
     subtitle: Featured items section subtitle
     items:
       - title: Is Your Child Ready to Thrive in a Nurturing Educational Environment?
-        tagline: This is the tagline
+        tagline: ''
         subtitle: This is the item subtitle
         text: >
           ✔ Build strong academic skills with effective, research-backed

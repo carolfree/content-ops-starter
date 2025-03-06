@@ -208,7 +208,7 @@ sections:
             flexDirection: row
         type: FeaturedItem
     actions:
-      - label: Get started
+      - label: Email Your Questions
         altText: ''
         url: /
         showIcon: false

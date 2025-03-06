@@ -161,35 +161,25 @@ sections:
           Both Learning and Play, Inside and Out?
         subtitle: ''
         text: >
-          **Indoor Spaces:**
+          ✔ Small class size (8-10 students) for personalized attention
 
 
-          ✔ Bright and airy space with beautiful views of nature and wildlife
+          ✔ A focus on reading with plenty of story time and reading aloud
 
 
-          ✔ Cozy seating for listening and relaxing, as well as writing and art
-          activities
+          ✔ A mixed-age class that promotes collaboration and peer learning
 
 
-          ✔ A dedicated LEGO room for creativity and imaginative play
+          ✔ A home-like environment that’s safe, nurturing, and encourages
+          self-expression
 
 
-          ✔ Resources to support both structured activities and free expression
+          ✔ Emotional growth prioritized to foster empathy, kindness, and
+          self-worth
 
 
-          ✔ A library landing for finding books and reading in a peaceful space
-
-
-          **Outdoor Spaces:**
-
-
-          ✔ A large field for physical activities and play
-
-
-          ✔ Scenic nature walks along the waterfront
-
-
-          ✔ Beautiful wooded trails for endless exploration
+          ✔ A balanced learning experience combining teacher-led instruction and
+          child-led exploration
         image:
           url: /images/HLAimage4.jpg
           altText: Featured icon three

@@ -191,7 +191,7 @@ sections:
 
           ✔ Beautiful wooded trails for endless exploration
         image:
-          url: /images/icon3.svg
+          url: /images/HLAimage4.jpg
           altText: Featured icon three
           elementId: ''
           type: ImageBlock

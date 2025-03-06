@@ -188,8 +188,7 @@ sections:
       - url: /images/HLAimage3b.jpg
         altText: Empathy logo
         type: ImageBlock
-      - url: /images/HLAimage1b.jpg
-        altText: Wellster logo
+      - altText: Wellster logo
         type: ImageBlock
       - url: /images/HLAimage1b.jpg
         altText: Vise logo

@@ -156,7 +156,9 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: 200%
+      - title: >-
+          Does Your Child Need a Warm, Supportive Environment That Encourages
+          Both Learning and Play, Inside and Out?
         subtitle: Faster
         text: >
           Indoor Spaces:

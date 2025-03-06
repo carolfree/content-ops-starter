@@ -667,14 +667,22 @@ sections:
           ✔ Build strong academic skills with effective, research-backed
           learning strategies
 
+
+
           ✔ Explore nature and engage in outdoor adventures that inspire
           curiosity
+
+
 
           ✔ Develop emotional intelligence for confidence, inner peace, and
           well-being
 
+
+
           ✔ Express creativity through hands-on experiences in art, music, and
           drama
+
+
 
           ✔ Enjoy a cozy, welcoming space where learning feels like home
         image:

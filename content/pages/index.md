@@ -138,7 +138,7 @@ sections:
           If you can see your child thriving in this balanced approach, Hearth
           Light Academy is the perfect fit!
         image:
-          url: /images/icon2.svg
+          url: /images/HLAimage2.jpg
           altText: Featured icon two
           elementId: ''
           type: ImageBlock

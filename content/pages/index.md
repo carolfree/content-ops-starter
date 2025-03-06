@@ -156,9 +156,7 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: >-
-          Does Your Child Need a Warm, Supportive Environment That Encourages
-          Both Learning and Play, Inside and Out?
+      - title: Does Your Chi
         subtitle: ''
         text: >
           ✔ Small class size (8-10 students) for personalized attention

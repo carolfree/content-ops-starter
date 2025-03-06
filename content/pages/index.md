@@ -662,7 +662,7 @@ sections:
     items:
       - title: Is Your Child Ready to Thrive in a Nurturing Educational Environment?
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: >
           ✔ Build strong academic skills with effective, research-backed
           learning strategies

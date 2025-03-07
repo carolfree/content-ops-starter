@@ -387,7 +387,7 @@ sections:
         style: primary
         elementId: null
     badge:
-      label: EMAIL TODAY
+      label: CONTACT BY EMAIL
       color: text-primary
       type: Badge
     colors: bg-light-fg-dark

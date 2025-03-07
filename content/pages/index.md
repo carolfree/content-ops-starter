@@ -322,7 +322,7 @@ sections:
             borderStyle: dotted
       - type: FeaturedItem
         title: Cotton Knit Throws
-        subtitle: $ 44.99 – $ 90
+        subtitle: ''
         image:
           type: ImageBlock
           altText: Cotton Knit Throws

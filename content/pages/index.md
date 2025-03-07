@@ -210,7 +210,7 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: ''
-    text: >+
+    text: >
       **Indoor Spaces:**
 
 
@@ -243,15 +243,9 @@ sections:
 
 
 
+
       **If this environment feels like the next best thing to home, your child
       will thrive here!**
-
-
-
-
-
-
-
     badge:
       label: ''
       color: text-primary

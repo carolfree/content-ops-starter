@@ -53,6 +53,173 @@ sections:
     type: FeaturedPostsSection
     hoverEffect: move-up
   - title:
+      text: HEARTH LIFE ACADEMY
+      color: text-primary
+      styles:
+        self:
+          textAlign: center
+      type: TitleBlock
+    subtitle: Carol Christina Tozer
+    items:
+      - title: Is Your Child Ready to Thrive in a Nurturing Educational Environment?
+        tagline: ''
+        subtitle: ''
+        text: >
+          ✔ **Build** strong academic skills with effective, research-backed
+          learning strategies
+
+
+          ✔ **Explore** nature and engage in outdoor adventures that inspire
+          curiosity
+
+
+          ✔ **Develop** emotional intelligence for confidence, inner peace, and
+          well-being
+
+
+          ✔ **Express** creativity through hands-on experiences in art, music,
+          and drama
+
+
+          ✔ **Enjoy** a cozy, welcoming space where learning feels like home
+
+
+
+          If this sounds like the perfect environment for your child to
+          flourish, **Hearth Light Academy** is the place to be!
+        image:
+          url: /images/hla4.jpg
+          altText: Placeholder Image
+          styles:
+            self:
+              borderRadius: x-large
+          type: ImageBlock
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: col
+        type: FeaturedItem
+      - title: |-
+          Would You Appreciate a
+          Curriculum That Balances Academic Excellence and Creative Exploration?
+        tagline: ''
+        subtitle: ''
+        text: >+
+          ✔ **Establish** a solid foundation in core subjects like reading,
+          writing, and math
+
+
+
+          ✔ **Investigate** the wonders of science through books, nature, and
+          experiments
+
+
+
+          ✔ **Discover** history, geography, and social studies through engaging
+          lessons
+
+
+
+          ✔ **Express** creativity through theatrical and imaginative play
+
+
+
+          ✔ **Stay** active and connected to nature through outdoor fitness and
+          fun
+
+
+
+
+          If you can see your child thriving in this balanced approach, **Hearth
+          Light Academy** is the perfect fit!
+
+
+
+
+
+
+
+        image:
+          url: /images/HLAimage2b.jpg
+          altText: Placeholder image
+          styles:
+            self:
+              borderRadius: x-large
+          type: ImageBlock
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: col
+        type: FeaturedItem
+      - title: >-
+          Are You Looking for a School Where Your Child Will Excel Academically
+          and Develop Strong Emotional Well-Being?
+        tagline: ''
+        subtitle: ''
+        text: >
+          ✔ Small class size (8-10 students) for personalized attention
+
+
+          ✔ A focus on reading with plenty of story time and reading aloud
+
+
+          ✔ A mixed-age class that promotes collaboration and peer learning
+
+
+          ✔ A home-like environment that’s safe, nurturing, and encourages
+          self-expression
+
+
+          ✔ Emotional growth prioritized to foster empathy, kindness, and
+          self-worth
+
+
+          ✔ A balanced learning experience combining teacher-led instruction and
+          child-led exploration
+        image:
+          url: /images/HLAimage3b.jpg
+          altText: Placeholder image
+          styles:
+            self:
+              borderRadius: x-large
+          type: ImageBlock
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: col
+        type: FeaturedItem
+    variant: three-col-grid
+    colors: bg-neutral-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-16
+          - pl-8
+          - pb-16
+          - pr-8
+        justifyContent: center
+      subtitle:
+        textAlign: center
+    type: FeaturedItemsSection
+  - title:
       text: Grow your business 10x faster
       color: text-dark
       styles:
@@ -224,173 +391,6 @@ sections:
           - pb-7
           - pr-7
     type: DividerSection
-  - title:
-      text: HEARTH LIFE ACADEMY
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
-      type: TitleBlock
-    subtitle: Carol Christina Tozer
-    items:
-      - title: Is Your Child Ready to Thrive in a Nurturing Educational Environment?
-        tagline: ''
-        subtitle: ''
-        text: >
-          ✔ **Build** strong academic skills with effective, research-backed
-          learning strategies
-
-
-          ✔ **Explore** nature and engage in outdoor adventures that inspire
-          curiosity
-
-
-          ✔ **Develop** emotional intelligence for confidence, inner peace, and
-          well-being
-
-
-          ✔ **Express** creativity through hands-on experiences in art, music,
-          and drama
-
-
-          ✔ **Enjoy** a cozy, welcoming space where learning feels like home
-
-
-
-          If this sounds like the perfect environment for your child to
-          flourish, **Hearth Light Academy** is the place to be!
-        image:
-          url: /images/hla4.jpg
-          altText: Placeholder Image
-          styles:
-            self:
-              borderRadius: x-large
-          type: ImageBlock
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-        type: FeaturedItem
-      - title: |-
-          Would You Appreciate a
-          Curriculum That Balances Academic Excellence and Creative Exploration?
-        tagline: ''
-        subtitle: ''
-        text: >+
-          ✔ **Establish** a solid foundation in core subjects like reading,
-          writing, and math
-
-
-
-          ✔ **Investigate** the wonders of science through books, nature, and
-          experiments
-
-
-
-          ✔ **Discover** history, geography, and social studies through engaging
-          lessons
-
-
-
-          ✔ **Express** creativity through theatrical and imaginative play
-
-
-
-          ✔ **Stay** active and connected to nature through outdoor fitness and
-          fun
-
-
-
-
-          If you can see your child thriving in this balanced approach, **Hearth
-          Light Academy** is the perfect fit!
-
-
-
-
-
-
-
-        image:
-          url: /images/HLAimage2b.jpg
-          altText: Placeholder image
-          styles:
-            self:
-              borderRadius: x-large
-          type: ImageBlock
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-        type: FeaturedItem
-      - title: >-
-          Are You Looking for a School Where Your Child Will Excel Academically
-          and Develop Strong Emotional Well-Being?
-        tagline: ''
-        subtitle: ''
-        text: >
-          ✔ Small class size (8-10 students) for personalized attention
-
-
-          ✔ A focus on reading with plenty of story time and reading aloud
-
-
-          ✔ A mixed-age class that promotes collaboration and peer learning
-
-
-          ✔ A home-like environment that’s safe, nurturing, and encourages
-          self-expression
-
-
-          ✔ Emotional growth prioritized to foster empathy, kindness, and
-          self-worth
-
-
-          ✔ A balanced learning experience combining teacher-led instruction and
-          child-led exploration
-        image:
-          url: /images/HLAimage3b.jpg
-          altText: Placeholder image
-          styles:
-            self:
-              borderRadius: x-large
-          type: ImageBlock
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-        type: FeaturedItem
-    variant: three-col-grid
-    colors: bg-neutral-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-16
-          - pl-8
-          - pb-16
-          - pr-8
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: FeaturedItemsSection
   - type: CarouselSection
     title: null
     subtitle: What our customers say about us

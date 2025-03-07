@@ -767,45 +767,26 @@ sections:
           and Develop Strong Emotional Well-Being?
         tagline: ''
         subtitle: ''
-        text: >+
+        text: >
           ✔ Small class size (8-10 students) for personalized attention
-
 
 
           ✔ A focus on reading with plenty of story time and reading aloud
 
 
-
           ✔ A mixed-age class that promotes collaboration and peer learning
-
 
 
           ✔ A home-like environment that’s safe, nurturing, and encourages
           self-expression
 
 
-
           ✔ Emotional growth prioritized to foster empathy, kindness, and
           self-worth
 
 
-
           ✔ A balanced learning experience combining teacher-led instruction and
           child-led exploration
-
-
-
-
-          Limited spots available—enroll now!
-
-
-
-
-
-
-
-
-
         image:
           url: /images/HLAimage3b.jpg
           altText: Placeholder image

@@ -807,7 +807,7 @@ sections:
 
 
         image:
-          url: /images/abstract-feature1.svg
+          url: /images/HLAimage3b.jpg
           altText: Placeholder image
           styles:
             self:

@@ -652,7 +652,7 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: List of features here
+      text: HEARTH LIFE ACADEMY
       color: text-primary
       styles:
         self:

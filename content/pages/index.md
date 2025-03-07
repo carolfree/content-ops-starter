@@ -211,7 +211,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Faux Fur Throw
-        subtitle: $ 88 – $ 176
+        subtitle: "Does Your Child Need a\nWarm, Supportive Environment That Encourages Both Learning and Play, Inside and\nOut?\_Indoor Spaces:✔\nBright and airy space with beautiful views of nature and wildlife\n✔ Cozy seating for listening and\nrelaxing, as well as writing and art activities✔\nA dedicated LEGO room for creativity and imaginative play\n✔ Resources\nto support both structured activities and free expression\n✔ A library landing for finding books and reading in\na peaceful space\_Outdoor\nSpaces:\n✔\nA large field for physical activities and play\n✔ Scenic nature walks along the\nwaterfront\n✔\nBeautiful wooded trails for endless exploration"
         image:
           type: ImageBlock
           url: /images/img-placeholder.svg

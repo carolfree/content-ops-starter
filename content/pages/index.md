@@ -276,11 +276,37 @@ sections:
           textAlign: left
       type: TitleBlock
     subtitle: Section with a video subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >+
+      ✔ Do you believe education should nurture both the mind and heart?
+
+
+
+      ✔ Would you love your child to learn in a nurturing, home-like
+      environment?
+
+
+
+      ✔ Are you looking for a school that combines strong academics with outdoor
+      exploration?
+
+
+
+      ✔ Do you believe emotional well-being is just as important as academic
+      success?
+
+
+      ****
+
+
+      **If you said 'YES,' secure your child's spot today and give them the
+      opportunity to thrive!**
+
+
+
+
+
+
+
     actions: []
     media:
       title: Title of the video

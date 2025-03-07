@@ -275,7 +275,7 @@ sections:
         self:
           textAlign: left
       type: TitleBlock
-    subtitle: Section with a video subtitle
+    subtitle: ''
     text: >+
       ✔ Do you believe education should nurture both the mind and heart?
 

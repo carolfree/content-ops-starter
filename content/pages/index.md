@@ -321,21 +321,6 @@ sections:
             justifyContent: center
             borderStyle: dotted
       - type: FeaturedItem
-        title: Cotton Knit Throws
-        subtitle: ''
-        image:
-          type: ImageBlock
-          altText: Cotton Knit Throws
-          elementId: ''
-          styles:
-            self:
-              borderRadius: medium
-        actions: []
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            flexDirection: row
-      - type: FeaturedItem
         title: ''
         subtitle: ''
         image:

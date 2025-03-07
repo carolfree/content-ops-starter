@@ -264,7 +264,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Items on sale
+      text: Is Hearth Light Academy Right for Your Family?
       color: text-dark
       styles:
         self:

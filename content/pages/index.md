@@ -273,35 +273,24 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: ''
-        text: >+
+        text: >
           ✔ Do you believe education should nurture both the mind and heart?
-
 
 
           ✔ Would you love your child to learn in a nurturing, home-like
           environment?
 
 
-
           ✔ Are you looking for a school that combines strong academics with
           outdoor exploration?
-
 
 
           ✔ Do you believe emotional well-being is just as important as academic
           success?
 
 
-
-          If you said 'YES,' secure your child's spot today and give them the
-          opportunity to thrive!
-
-
-
-
-
-
-
+          **If you said 'YES,' secure your child's spot today and give them the
+          opportunity to thrive!**
         image:
           type: ImageBlock
           url: /images/HLAimage1b.jpg

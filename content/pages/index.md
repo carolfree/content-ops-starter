@@ -261,64 +261,94 @@ sections:
       subtitle:
         textAlign: center
     type: GenericSection
-  - type: GenericSection
+  - type: FeaturedItemsSection
     title:
-      text: |-
-        Is Hearth Light Academy
-        Right for Your Family?
+      type: TitleBlock
+      text: Is Hearth Light Academy Right for Your Family?
       color: text-dark
       styles:
         self:
-          textAlign: left
-      type: TitleBlock
-    subtitle: ''
-    text: >
-      ✔ Do you believe education should nurture both the mind and heart?
+          textAlign: center
+    items:
+      - type: FeaturedItem
+        title: ''
+        subtitle: ''
+        text: >
+          ✔ Do you believe education should nurture both the mind and heart?
 
 
-      ✔ Would you love your child to learn in a nurturing, home-like
-      environment?
+          ✔ Would you love your child to learn in a nurturing, home-like
+          environment?
 
 
-      ✔ Are you looking for a school that combines strong academics with outdoor
-      exploration?
+          ✔ Are you looking for a school that combines strong academics with
+          outdoor exploration?
 
 
-      ✔ Do you believe emotional well-being is just as important as academic
-      success?
+          ✔ Do you believe emotional well-being is just as important as academic
+          success?
 
 
-      **If you said 'YES,' secure your child's spot today and give them the
-      opportunity to thrive!**
+          **If you said 'YES,' secure your child's spot today and give them the
+          opportunity to thrive!**
+        image:
+          type: ImageBlock
+          url: /images/HLAimage1b.jpg
+          altText: Faux Fur Throw
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+              padding:
+                - pt-0
+                - pl-0
+                - pb-0
+                - pr-0
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-6
+              - pl-6
+              - pb-6
+              - pr-6
+            textAlign: left
+            borderColor: border-neutralAlt
+            borderWidth: 2
+            borderRadius: x-small
+            flexDirection: row-reverse
+            justifyContent: center
+            borderStyle: dotted
+      - type: FeaturedItem
+        title: ''
+        subtitle: ''
+        image:
+          type: ImageBlock
+          altText: Chunky Cotton Knit Throw
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            flexDirection: row
     actions: []
-    media:
-      title: Title of the video
-      url: /images/placeholder-video.mp4
-      autoplay: true
-      loop: true
-      muted: true
-      controls: false
-      aspectRatio: '16:9'
-      styles:
-        self:
-          padding:
-            - pt-2
-            - pb-2
-            - pl-2
-            - pr-2
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-      type: VideoBlock
-    elementId: null
+    elementId: ''
+    variant: small-list
     colors: bg-light-fg-dark
     styles:
       self:
-        flexDirection: row
+        padding:
+          - pt-0
+          - pl-0
+          - pb-0
+          - pr-0
         justifyContent: center
       subtitle:
-        textAlign: left
+        textAlign: center
   - type: DividerSection
     title: Divider
     elementId: ''

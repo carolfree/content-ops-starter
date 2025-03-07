@@ -38,7 +38,19 @@
     },
     "secondaryLinks": {
         "title": "Company",
-        "links": [],
+        "links": [
+            {
+                "type": "Link",
+                "label": "Facebook",
+                "altText": "Facebook",
+                "url": "/hearthlightacademy",
+                "showIcon": true,
+                "icon": "facebook",
+                "iconPosition": "left",
+                "style": "secondary",
+                "elementId": ""
+            }
+        ],
         "type": "FooterLinksGroup"
     },
     "socialLinks": [

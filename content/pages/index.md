@@ -383,15 +383,13 @@ sections:
       type: TitleBlock
     subtitle: Carol Christina Tozer
     text: |
-      Carol Christina Tozer
-
       Independent Educator
 
       Emotional Healing Practitioner
 
       **Location:** Just Outside Miramichi, New Brunswick
 
-      **Email:** hearthlightacademy\@gmail.com
+      **Email:** <hearthlightacademy@gmail.com>
     media:
       fields:
         - name: name

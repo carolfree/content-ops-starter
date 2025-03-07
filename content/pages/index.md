@@ -12,16 +12,7 @@ sections:
       Exploration
     text: |
       *A Nurturing Learning Environment for Kindergarten to Grade 2*
-    actions:
-      - label: Email
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Button
+    actions: []
     media:
       url: /images/cov.jpg
       altText: Unblock your team boost your time to production preview

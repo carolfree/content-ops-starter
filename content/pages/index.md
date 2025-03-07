@@ -210,11 +210,45 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: This is a subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      **Indoor Spaces:**
+
+
+
+      ✔ Bright and airy space with beautiful views of nature and wildlife
+
+
+
+      ✔ Cozy seating for listening and relaxing, as well as writing and art
+      activities
+
+
+
+      ✔ A dedicated LEGO room for creativity and imaginative play
+
+
+
+      ✔ Resources to support both structured activities and free expression
+
+
+
+      ✔ A library landing for finding books and reading in a peaceful space
+
+
+
+      **Outdoor Spaces:**
+
+
+
+      ✔ A large field for physical activities and play
+
+
+
+      ✔ Scenic nature walks along the waterfront
+
+
+
+      ✔ Beautiful wooded trails for endless exploration
     media:
       title: Title of the video
       url: /images/placeholder-video.mp4

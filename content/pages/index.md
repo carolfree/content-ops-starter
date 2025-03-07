@@ -381,7 +381,7 @@ sections:
       text: HEARTH LIGHT ACADEMY
       color: text-dark
       type: TitleBlock
-    subtitle: Section with a form subtitle
+    subtitle: Carol Christina Tozer
     text: |
       Carol Christina Tozer
 

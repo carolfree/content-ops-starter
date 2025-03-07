@@ -34,7 +34,7 @@ sections:
           - pb-16
           - pr-16
   - title:
-      text: HEARTH LIFE ACADEMY
+      text: HEARTH LIGHT ACADEMY
       color: text-primary
       styles:
         self:

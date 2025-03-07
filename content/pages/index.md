@@ -201,7 +201,9 @@ sections:
         textAlign: center
     type: FeaturedItemsSection
   - title:
-      text: Grow your business 10x faster
+      text: >-
+        Does Your Child Need a Warm, Supportive Environment That Encourages Both
+        Learning and Play, Inside and Out?
       color: text-dark
       styles:
         self:

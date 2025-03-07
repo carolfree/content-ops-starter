@@ -210,45 +210,48 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: ''
-    text: >
+    text: >+
       **Indoor Spaces:**
 
 
-
       ✔ Bright and airy space with beautiful views of nature and wildlife
-
 
 
       ✔ Cozy seating for listening and relaxing, as well as writing and art
       activities
 
 
-
       ✔ A dedicated LEGO room for creativity and imaginative play
-
 
 
       ✔ Resources to support both structured activities and free expression
 
 
-
       ✔ A library landing for finding books and reading in a peaceful space
-
 
 
       **Outdoor Spaces:**
 
 
-
       ✔ A large field for physical activities and play
-
 
 
       ✔ Scenic nature walks along the waterfront
 
 
-
       ✔ Beautiful wooded trails for endless exploration
+
+
+
+      **If this environment feels like the next best thing to home, your child
+      will thrive here!**
+
+
+
+
+
+
+
     media:
       title: Title of the video
       url: /images/placeholder-video.mp4

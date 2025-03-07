@@ -351,9 +351,7 @@ sections:
         textAlign: center
   - type: GenericSection
     title:
-      text: |-
-        Is Hearth Light Academy
-        Right for Your Family?
+      text: ''
       color: text-dark
       styles:
         self:

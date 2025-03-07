@@ -336,7 +336,7 @@ sections:
       type: TitleBlock
     subtitle: Carol Christina Tozer
     text: |
-      Independent Educator
+      <div style="text-align: center">Independent Educator</div>
 
       Emotional Healing Practitioner
 

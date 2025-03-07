@@ -337,7 +337,7 @@ sections:
             flexDirection: row
       - type: FeaturedItem
         title: ''
-        subtitle: $117
+        subtitle: ''
         image:
           type: ImageBlock
           altText: Chunky Cotton Knit Throw

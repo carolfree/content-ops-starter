@@ -380,8 +380,13 @@ sections:
         title: Feature Item Two
         tagline: This is the tagline
         subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
+        text: |+
+          **Location:** Just Outside Miramichi, New Brunswick
+
+          **Email:** <hearthlightacademy@gmail.com>
+
+
+
         image:
           type: ImageBlock
           url: /images/abstract-feature2.svg

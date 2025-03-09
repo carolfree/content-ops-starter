@@ -295,7 +295,7 @@ sections:
               - pr-6
             borderRadius: large
       - type: PricingPlan
-        title: Enterprise
+        title: Mind and Heart
         price: ''
         details: ''
         description: >+

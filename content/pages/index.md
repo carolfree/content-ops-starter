@@ -344,17 +344,16 @@ sections:
         subtitle: Carol Christina Tozer
         text: >+
 
-          With over 30 years of experience in education and emotional
-          well-being, I have dedicated my life to helping children grow into
-          confident, independent learners. I homeschooled five children through
-          to university, developed curriculum, and led homeschool co-ops and
-          enrichment programs that foster both academic excellence and personal
-          growth. My background includes educating in diverse settings,
-          mentoring families in alternative education, and integrating emotional
-          wellness into learning. Beyond education, I have experience in public
-          speaking, theater, outdoor education, and volunteering with seniors,
-          reflecting my deep commitment to creativity, lifelong learning, and
-          meaningful community connection.
+          With over 30 years of experience homeschooling five children, I have
+          supported education in various ways, including developing curriculum
+          and directing and/or assisting in educational programs in the
+          community. My focus has always been on fostering confidence,
+          independence, and a love for learning. For nearly a decade, I have
+          also worked as an emotional healing practitioner, helping adults and
+          children overcome challenges and experience personal transformation.
+          My interests include public speaking, theater, outdoor education, and
+          volunteering with seniors, reflecting my passion for creativity,
+          lifelong learning, and meaningful community connection.
 
 
 

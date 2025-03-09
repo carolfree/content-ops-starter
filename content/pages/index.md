@@ -258,9 +258,21 @@ sections:
         title: 'Outdoor Spaces:'
         price: ''
         details: ''
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: >+
+          ✔ A large field for physical activities and play
+
+
+          ✔ Scenic nature walks along the waterfront
+
+
+          ✔ Beautiful wooded trails for endless exploration
+
+
+          **If this environment feels like the next best thing to home, your
+          child will thrive here!**
+
+
+
         features: []
         image:
           type: ImageBlock

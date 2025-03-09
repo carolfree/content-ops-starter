@@ -34,7 +34,7 @@ sections:
           - pb-16
           - pr-16
   - title:
-      text: HEARTH LIGHT ACADEMY
+      text: Is Hearth Light Academy Right for Your Family?
       color: text-primary
       styles:
         self:

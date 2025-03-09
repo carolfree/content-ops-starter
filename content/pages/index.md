@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Hearth Light Academy
 slug: /
 sections:
   - type: GenericSection

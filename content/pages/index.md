@@ -433,7 +433,7 @@ sections:
           - pr-3
 seo:
   metaTitle: Hearth Light Academy
-  metaDescription: This demo site is built with Netlify Create.
+  metaDescription: Private education Miramichi area
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout

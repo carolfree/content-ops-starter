@@ -336,7 +336,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Featured items section subtitle
+    subtitle: Email today
     items:
       - type: FeaturedItem
         title: Who will educate your child?

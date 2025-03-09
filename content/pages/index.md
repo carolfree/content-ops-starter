@@ -377,7 +377,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
       - type: FeaturedItem
-        title: More information
+        title: 'More information:'
         tagline: ''
         subtitle: ''
         text: >+

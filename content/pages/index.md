@@ -340,7 +340,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Who will educate your child?
-        tagline: This is the tagline
+        tagline: ''
         subtitle: Carol Christina Tozer
         text: >+
 

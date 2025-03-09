@@ -389,7 +389,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/abstract-feature2.svg
+          url: /images/unnamed.jpg
           altText: Background alt text
           styles:
             self:

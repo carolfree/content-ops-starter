@@ -202,7 +202,9 @@ sections:
   - type: PricingSection
     title:
       type: TitleBlock
-      text: Flexible Pricing
+      text: >-
+        Does Your Child Need a Warm, Supportive Environment That Encourages Both
+        Learning and Play, Inside and Out?
       color: text-dark
       styles:
         self:

@@ -357,7 +357,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/IMG_7724.jpg
-          altText: Background alt text
+          altText: ''
           styles:
             self:
               borderRadius: x-large

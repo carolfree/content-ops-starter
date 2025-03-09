@@ -377,7 +377,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
       - type: FeaturedItem
-        title: Feature Item Two
+        title: Where? Contact?
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |+

@@ -246,8 +246,7 @@ sections:
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
-        features:
-          - Feature fou
+        features: []
         image:
           type: ImageBlock
           url: /images/HLAimage1.jpg

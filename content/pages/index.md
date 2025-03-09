@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Hearth Light Academy
 slug: /
 sections:
   - type: GenericSection
@@ -436,5 +436,5 @@ seo:
   socialImage: /images/cov2.jpg
   type: Seo
 type: PageLayout
-isDraft: true
+isDraft: false
 ---

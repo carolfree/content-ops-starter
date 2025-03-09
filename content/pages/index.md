@@ -342,8 +342,145 @@ sections:
         title: Feature Item One
         tagline: This is the tagline
         subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >
+          As an experienced educator and emotional healing practitioner, I am
+          committed to providing a strong academic foundation while supporting
+          emotional growth. My private school offers a warm, home-like
+          environment where students excel academically, develop independence,
+          and cultivate a love for learning. I foster curiosity, creativity, and
+          self-confidence through a balanced approach of structured lessons,
+          outdoor exploration, and hands-on experiences. This approach supports
+          both their academic success and emotional well-being.
+
+
+
+          **Key Qualifications & Skills**
+
+          • Academic Excellence: Expertise in building strong foundations and
+          gradually advancing skills for deeper understanding and progress.
+
+          • Emotional Support & Wellness: Nurturing children's emotional
+          well-being through healing language and fostering an understanding,
+          empathetic environment where they feel valued.
+
+          • Gentle Parenting & Positive Learning Techniques: Skilled in
+          non-coercive, respectful approaches that encourage cooperation,
+          self-regulation, and emotional intelligence.
+
+          • Curriculum Development: Creating lesson plans that adapt to
+          different age groups and learning styles, ensuring a well-rounded
+          educational experience that meets each child’s developmental needs.
+
+          • Integrated Learning Approaches: Emphasizing both teacher-led and
+          child-led activities to foster independence, curiosity, and
+          problem-solving.
+
+          • Homeschooling Experience: Successfully homeschooled five children,
+          guiding them through a well-rounded education that led to university
+          admissions and degree/diploma.
+
+          • Nature Exploration & Outdoor Learning: Integrating nature walks,
+          wildlife observation, and outdoor adventures to inspire curiosity and
+          hands-on learning.
+
+          • Creative & Engaging Activities: Incorporating arts, crafts, music,
+          and storytelling to encourage a love of learning and creative
+          expression.
+
+
+
+          **Professional Experience**
+
+          Founder & Educator | Private School (Home-Based) | 2025 – Present
+
+          • Designing and implementing curriculum for kindergarten to grade 2
+          students, focusing on academic excellence, emotional well-being, and
+          nature exploration.
+
+          • Creating a nurturing, compassionate environment that empowers
+          students to develop confidence, creativity, and independence.
+
+          • Providing individualized attention to each child’s learning style
+          and developmental needs.
+
+          • Integrating emotional support practices into daily activities to
+          help children self-regulate and build resilience.
+
+          • Guiding outdoor adventures, creative play, and nature exploration to
+          inspire curiosity and hands-on learning.
+
+
+          **
+
+          Emotional Healing Practitioner | 2015 - Present**
+
+          • Specializing in emotional healing and trauma recovery for both
+          children and adults.
+
+          • Providing one-on-one coaching and guidance for parents and children
+          to improve emotional well-being.
+
+          • Developed and facilitated sessions on emotional intelligence,
+          empowerment over bullying, anxiety and trauma recovery, and positive
+          parenting strategies.
+
+
+          **
+
+          Private & Home Educator | 1988 - Present**
+
+          • Homeschooled five children from kindergarten through high school,
+          tailoring education to their individual needs and strengths,
+          emphasizing academic excellence and independent learning.
+
+          • Initiated and led the homeschooling of my younger sister from
+          kindergarten to grade two.
+
+          • Organized and hosted homeschool activities and field trips for
+          multiple families every year since 1988.
+
+          • Developed and directed children’s summer programs, as well as a
+          children’s classical education program within a homeschool co-op
+          setting.
+
+
+
+          **Additional Experience & Activities**
+
+          • Volunteer for Seniors: Leading weekly read-aloud and discussion
+          sessions at a local seniors' care home.
+
+          • Theater & Public Speaking: Actress in numerous productions,
+          including at the Fredericton Playhouse, with experience in acting,
+          directing, and stage production.
+
+          • Outdoor Education & Conservation: Worked maintaining remote
+          conservation sites, security and monitoring wildlife.
+
+          • Photography & Creative Arts: Enjoys nature photography and has been
+          hired for children’s photography.
+
+          • Health & Wellness Education: Led health science seminars and
+          conducted client consultations at Forever Healthy Clinic.
+
+
+
+          **Personal Attributes & Values**
+
+          • Integrity & Ethical Leadership: Leading with honesty, fairness, and
+          strong moral values to create a safe, principled environment.
+
+          • Adaptability & Lifelong Learning: Continuously growing and evolving,
+          adapting to different needs, learning styles, and challenges.
+
+          • Empathy & Emotional Awareness: Deeply attuned to children's
+          emotions, fostering confidence, resilience, and a sense of security.
+
+          • Holistic, Nature-Inspired Approach: Valuing creativity, outdoor
+          learning, and having a deep appreciation for nature and wildlife.
+
+          • Community & Connection: Building meaningful relationships that
+          foster a supportive, connected environment for growth and well-being.
         image:
           type: ImageBlock
           url: /images/IMG_7724.jpg

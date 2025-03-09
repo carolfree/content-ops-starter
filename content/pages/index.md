@@ -391,7 +391,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/unnamed.jpg
-          altText: Background alt text
+          altText: ''
           styles:
             self:
               borderRadius: x-large

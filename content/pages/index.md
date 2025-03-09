@@ -378,7 +378,7 @@ sections:
             flexDirection: row
       - type: FeaturedItem
         title: Where? Contact?
-        tagline: This is the tagline
+        tagline: ''
         subtitle: ''
         text: |+
           **Location:** Just Outside Miramichi, New Brunswick

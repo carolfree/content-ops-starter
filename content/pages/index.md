@@ -376,8 +376,8 @@ sections:
         title: 'More information:'
         tagline: ''
         subtitle: ''
-        text: >+
-          **Location:** Just Outside Miramichi, New Brunswick
+        text: >
+          **Location:** Just outside City of Miramichi, New Brunswick
 
 
           **Email:** <hearthlightacademy@gmail.com>
@@ -388,7 +388,6 @@ sections:
 
 
           **YouTube:** <https://youtube.com/shorts/uiQ-fae4vgA>
-
         image:
           type: ImageBlock
           url: /images/unnamed.jpg

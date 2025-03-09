@@ -272,13 +272,7 @@ sections:
           type: ImageBlock
           url: /images/HLAimage4.jpg
           altText: Pricing plan 2
-        actions:
-          - type: Button
-            label: Try for free
-            url: /
-            icon: arrowRight
-            iconPosition: right
-            style: secondary
+        actions: []
         colors: bg-neutral-fg-dark
         styles:
           self:

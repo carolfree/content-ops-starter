@@ -434,7 +434,7 @@ sections:
 seo:
   metaTitle: Hearth Light Academy
   metaDescription: Private education Miramichi area
-  socialImage: /images/cov.jpg
+  socialImage: /images/cov2.jpg
   type: Seo
 type: PageLayout
 isDraft: true

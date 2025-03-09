@@ -341,7 +341,7 @@ sections:
       - type: FeaturedItem
         title: Who will educate your child?
         tagline: This is the tagline
-        subtitle: This is the item subtitle
+        subtitle: Carol Christina Tozer
         text: >+
 
           With over 30 years of experience in education and emotional

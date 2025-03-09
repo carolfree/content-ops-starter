@@ -271,7 +271,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/HLAimage4.jpg
-          altText: Pricing plan 2
+          altText: ''
         actions: []
         colors: bg-neutral-fg-dark
         styles:

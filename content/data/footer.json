@@ -4,23 +4,6 @@
         "type": "ImageBlock"
     },
     "text": "© 2025 Hearth Light Academy All Rights Reserved\n",
-    "secondaryLinks": {
-        "title": "",
-        "links": [
-            {
-                "type": "Link",
-                "label": "Facebook",
-                "altText": "Facebook",
-                "url": "/hearthlightacademy",
-                "showIcon": true,
-                "icon": "facebook",
-                "iconPosition": "left",
-                "style": "secondary",
-                "elementId": ""
-            }
-        ],
-        "type": "FooterLinksGroup"
-    },
     "socialLinks": [],
     "legalLinks": [],
     "copyrightText": "Powered by [Netlify](https://www.netlify.com/)\n",

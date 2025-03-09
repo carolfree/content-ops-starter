@@ -389,6 +389,9 @@ sections:
           **Facebook:**
           [facebook.com/hearthlightacademy](https://www.facebook.com/hearthlightacademy)
 
+
+          **YouTube:** <https://youtube.com/shorts/uiQ-fae4vgA>
+
         image:
           type: ImageBlock
           url: /images/unnamed.jpg

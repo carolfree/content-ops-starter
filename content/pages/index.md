@@ -331,7 +331,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: List of features here
+      text: Meet Carol Christina Tozer
       color: text-primary
       styles:
         self:

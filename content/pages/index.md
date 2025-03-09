@@ -212,52 +212,6 @@ sections:
     subtitle: This is the subtitle for the pricing section
     plans:
       - type: PricingPlan
-        title: 'Indoor Spaces:'
-        price: ''
-        details: ''
-        description: >+
-          ✔ Bright and airy space with beautiful views of nature and wildlife
-
-
-          ✔ Cozy seating for listening and relaxing, as well as writing and art
-          activities
-
-
-          ✔ A dedicated LEGO room for creativity and imaginative play
-
-
-          ✔ Resources to support both structured activities and free expression
-
-
-          ✔ A library landing for finding books and reading in a peaceful space
-
-
-
-        features:
-          - Feature two
-          - Feature three
-          - Feature four
-        image:
-          type: ImageBlock
-          url: /images/HLAimage4.jpg
-          altText: Pricing plan 1
-        actions:
-          - type: Button
-            label: Try for free
-            url: /
-            icon: arrowRight
-            iconPosition: right
-            style: secondary
-        colors: bg-neutral-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-6
-              - pb-10
-              - pl-6
-              - pr-6
-            borderRadius: large
-      - type: PricingPlan
         title: Professional
         price: $99
         details: per month

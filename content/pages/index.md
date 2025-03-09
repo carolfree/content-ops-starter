@@ -212,7 +212,7 @@ sections:
     subtitle: ''
     plans:
       - type: PricingPlan
-        title: Developers
+        title: 'Indoor Spaces:'
         price: ''
         details: ''
         description: >-

@@ -431,25 +431,6 @@ sections:
           - pl-3
           - pb-3
           - pr-3
-  - title:
-      text: HEARTH LIGHT ACADEMY
-      color: text-dark
-      type: TitleBlock
-    subtitle: Carol Christina Tozer
-    text: |
-      <div style="text-align: left">Independent Educator</div>
-
-      Emotional Healing Practitioner
-
-      **Location:** Just Outside Miramichi, New Brunswick
-
-      **Email:** <hearthlightacademy@gmail.com>
-    badge:
-      label: CONTACT BY EMAIL
-      color: text-primary
-      type: Badge
-    colors: bg-light-fg-dark
-    type: GenericSection
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.

@@ -379,7 +379,7 @@ sections:
       - type: FeaturedItem
         title: Where? Contact?
         tagline: This is the tagline
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: |+
           **Location:** Just Outside Miramichi, New Brunswick
 

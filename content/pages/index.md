@@ -202,7 +202,7 @@ sections:
   - type: PricingSection
     title:
       type: TitleBlock
-      text: Flexible Pricing
+      text: FlexibIs Hearth Light Academy Right for Your Family?le Pricing
       color: text-dark
       styles:
         self:

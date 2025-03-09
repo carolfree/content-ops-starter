@@ -223,7 +223,7 @@ sections:
           - Feature four
         image:
           type: ImageBlock
-          url: /images/HLAimage1.jpg
+          url: /images/HLAimage4.jpg
           altText: Pricing plan 1
         actions:
           - type: Button

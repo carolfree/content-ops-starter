@@ -424,7 +424,7 @@ seo:
   metaDescription: Private education Miramichi area
   socialImage: /images/cov2.jpg
   type: Seo
-  addTitleSuffix: false
+  addTitleSuffix: true
 type: PageLayout
 isDraft: false
 ---

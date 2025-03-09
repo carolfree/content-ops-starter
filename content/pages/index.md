@@ -257,7 +257,7 @@ sections:
           - Feature four
         image:
           type: ImageBlock
-          url: /images/abstract-feature2.svg
+          url: /images/HLAimage1.jpg
           altText: Pricing plan 2
         actions:
           - type: Button

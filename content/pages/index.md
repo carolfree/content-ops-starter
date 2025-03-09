@@ -65,9 +65,8 @@ sections:
           ✔ **Enjoy** a cozy, welcoming space where learning feels like home
 
 
-
-          If this sounds like the perfect environment for your child to
-          flourish, **Hearth Light Academy** is the place to be!
+          If this sounds like a great environment for your child to flourish,
+          **Hearth Light Academy** is the place to be!
         image:
           url: /images/hla4.jpg
           altText: Placeholder Image

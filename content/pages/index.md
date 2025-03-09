@@ -277,7 +277,6 @@ sections:
           accusantium doloremque laudantium, totam rem aperiam.
         features:
           - Feature two
-          - Feature four
           - Feature five
         image:
           type: ImageBlock

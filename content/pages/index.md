@@ -420,7 +420,7 @@ sections:
       subtitle:
         textAlign: center
 seo:
-  metaTitle: Hearth Light Academy
+  metaTitle: ''
   metaDescription: Private education Miramichi area
   socialImage: /images/cov2.jpg
   type: Seo

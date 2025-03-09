@@ -331,7 +331,9 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: List of features here
+      text: >-
+        Does Hearth Light Academy be the perfect fit for your child's growth and
+        your family's values?"
       color: text-primary
       styles:
         self:

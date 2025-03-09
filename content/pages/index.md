@@ -237,7 +237,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/HLAimage1.jpg
-          altText: Pricing plan 1
+          altText: ''
         actions: []
         colors: bg-neutral-fg-dark
         styles:
@@ -271,7 +271,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/HLAimage4.jpg
-          altText: Pricing plan 2
+          altText: ''
         actions: []
         colors: bg-neutral-fg-dark
         styles:
@@ -311,7 +311,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/HLAimage5.jpg
-          altText: Pricing plan 3
+          altText: ''
         actions: []
         colors: bg-neutral-fg-dark
         styles:
@@ -357,7 +357,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/IMG_7724.jpg
-          altText: Background alt text
+          altText: ''
           styles:
             self:
               borderRadius: x-large
@@ -391,7 +391,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/unnamed.jpg
-          altText: Background alt text
+          altText: ''
           styles:
             self:
               borderRadius: x-large

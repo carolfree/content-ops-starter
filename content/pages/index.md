@@ -40,7 +40,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Carol Christina Tozer
+    subtitle: ''
     items:
       - title: Is Your Child Ready to Thrive in a Nurturing Educational Environment?
         tagline: ''

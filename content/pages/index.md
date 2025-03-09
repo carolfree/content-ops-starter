@@ -336,7 +336,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Email today
+    subtitle: Email today to learn more and start your journey!
     items:
       - type: FeaturedItem
         title: Who will educate your child?

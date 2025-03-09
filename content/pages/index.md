@@ -298,9 +298,27 @@ sections:
         title: Enterprise
         price: ''
         details: ''
-        description: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam.
+        description: >+
+          ✔ Do you believe education should nurture both the mind and heart?
+
+
+          ✔ Would you love your child to learn in a nurturing, home-like
+          environment?
+
+
+          ✔ Are you looking for a school that combines strong academics with
+          outdoor exploration?
+
+
+          ✔ Do you believe emotional well-being is just as important as academic
+          success?
+
+
+          **If you said 'YES,' secure your child's spot today and give them the
+          opportunity to thrive!**
+
+
+
         features: []
         image:
           type: ImageBlock

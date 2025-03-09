@@ -380,12 +380,15 @@ sections:
         title: More information
         tagline: ''
         subtitle: ''
-        text: |+
+        text: >+
           **Location:** Just Outside Miramichi, New Brunswick
+
 
           **Email:** <hearthlightacademy@gmail.com>
 
 
+          **Facebook:**
+          [facebook.com/hearthlightacademy](https://www.facebook.com/hearthlightacademy)
 
         image:
           type: ImageBlock

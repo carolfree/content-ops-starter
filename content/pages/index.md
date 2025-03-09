@@ -331,9 +331,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: >-
-        Does Hearth Light Academy be the perfect fit for your child's growth and
-        your family's values?"
+      text: Could Hearth Light Academy be the right fit for your family?
       color: text-primary
       styles:
         self:

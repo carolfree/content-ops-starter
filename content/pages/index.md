@@ -342,8 +342,7 @@ sections:
         title: Who will educate your child?
         tagline: ''
         subtitle: Carol Christina Tozer
-        text: >+
-
+        text: >
           With over 30 years of experience homeschooling five children, I have
           supported education in various ways, including developing curriculum
           and directing and/or assisting in educational programs in the
@@ -351,12 +350,10 @@ sections:
           independence, and a love for learning. For nearly a decade, I have
           also worked as an emotional healing practitioner, helping adults and
           children overcome challenges and experience personal transformation.
-          My interests include public speaking, theater, outdoor education, and
-          volunteering with seniors, reflecting my passion for creativity,
-          lifelong learning, and meaningful community connection.
-
-
-
+          My interests include public speaking, theater, outdoor education,
+          nature photography, and volunteering with seniors, reflecting my
+          passion for creativity, lifelong learning, and meaningful community
+          connection.
         image:
           type: ImageBlock
           url: /images/IMG_7724.jpg

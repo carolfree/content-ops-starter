@@ -215,9 +215,24 @@ sections:
         title: Developers
         price: Free
         details: No credit card required
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: >+
+          ✔ Bright and airy space with beautiful views of nature and wildlife
+
+
+          ✔ Cozy seating for listening and relaxing, as well as writing and art
+          activities
+
+
+          ✔ A dedicated LEGO room for creativity and imaginative play
+
+
+          ✔ Resources to support both structured activities and free expression
+
+
+          ✔ A library landing for finding books and reading in a peaceful space
+
+
+
         features:
           - Feature one
           - Feature two

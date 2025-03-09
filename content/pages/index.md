@@ -280,7 +280,6 @@ sections:
           accusantium doloremque laudantium, totam rem aperiam.
         features:
           - Feature two
-          - Feature three
           - Feature four
           - Feature five
         image:

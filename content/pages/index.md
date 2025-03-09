@@ -236,7 +236,7 @@ sections:
         features: []
         image:
           type: ImageBlock
-          url: /images/HLAimage4.jpg
+          url: /images/HLAimage1.jpg
           altText: Pricing plan 1
         actions:
           - type: Button

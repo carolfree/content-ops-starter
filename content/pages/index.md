@@ -274,8 +274,7 @@ sections:
         description: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam.
-        features:
-          - Feature five
+        features: []
         image:
           type: ImageBlock
           url: /images/HLAimage5.jpg

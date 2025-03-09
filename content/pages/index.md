@@ -213,7 +213,7 @@ sections:
     plans:
       - type: PricingPlan
         title: 'Indoor Spaces:'
-        price: 'IndoorSpaces:'
+        price: ''
         details: No credit card required
         description: >+
           ✔ Bright and airy space with beautiful views of nature and wildlife

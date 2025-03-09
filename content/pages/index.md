@@ -436,5 +436,5 @@ seo:
   socialImage: /images/cov2.jpg
   type: Seo
 type: PageLayout
-isDraft: false
+isDraft: true
 ---

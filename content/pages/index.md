@@ -342,8 +342,22 @@ sections:
         title: Feature Item One
         tagline: This is the tagline
         subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >+
+
+          With over 30 years of experience in education and emotional
+          well-being, I have dedicated my life to helping children grow into
+          confident, independent learners. I homeschooled five children through
+          to university, developed curriculum, and led homeschool co-ops and
+          enrichment programs that foster both academic excellence and personal
+          growth. My background includes educating in diverse settings,
+          mentoring families in alternative education, and integrating emotional
+          wellness into learning. Beyond education, I have experience in public
+          speaking, theater, outdoor education, and volunteering with seniors,
+          reflecting my deep commitment to creativity, lifelong learning, and
+          meaningful community connection.
+
+
+
         image:
           type: ImageBlock
           url: /images/IMG_7724.jpg

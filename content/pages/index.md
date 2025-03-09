@@ -339,7 +339,7 @@ sections:
     subtitle: Featured items section subtitle
     items:
       - type: FeaturedItem
-        title: Get to know Carol Tozer
+        title: Who will educate your child?
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: >+

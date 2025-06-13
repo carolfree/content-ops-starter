@@ -390,7 +390,7 @@ sections:
           **YouTube:** <https://youtube.com/shorts/uiQ-fae4vgA>
         image:
           type: ImageBlock
-          url: /images/unnamed.jpg
+          url: /images/email.jpg
           altText: ''
           styles:
             self:

@@ -385,9 +385,6 @@ sections:
 
           **Facebook:**
           [facebook.com/hearthlightacademy](https://www.facebook.com/hearthlightacademy)
-
-
-          ****
         image:
           type: ImageBlock
           url: /images/email.jpg
